@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PEC_3.Activities</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="contacto">Descripción Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="editar_datos">Editar Datos</string>
+    <string name="confirmar_datos">Confirmar Datos</string>
+</resources>

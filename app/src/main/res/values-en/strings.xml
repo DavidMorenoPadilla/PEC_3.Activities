@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PEC_3.Activities</string>
+    <string name="nombre_completo">Name</string>
+    <string name="telefono">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="contacto">Contact Description</string>
+    <string name="siguiente">Next</string>
+    <string name="editar_datos">Edit</string>
+    <string name="confirmar_datos">Confirm Data</string>
+</resources>
